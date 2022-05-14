@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/sunbliss/photorama/issues"
   },
-  "homepage": "www.shivawatercolor.com",
+  "homepage": "http://sunbliss.github.io",
   "dependencies": {
     "searchkit": "^0.7.0"
   }
