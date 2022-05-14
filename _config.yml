@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: ShivaWatercolor
 email: ""
-description: "Photo Journal"
+description: "Art Page"
 url: "www.shivawatercolor.com"
 baseurl: ""
 facebook_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://shevass.github.io/photorama/gallery/"  
+  - JOURNAL: "https://shevass.github.io/photorama/journal/"
+  - ABOUT: "https://shevass.github.io/photorama/about/"
 
 # All translation keys
 translations:
