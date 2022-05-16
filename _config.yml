@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://shevass.github.io/photorama/gallery/"  
-  - JOURNAL: "https://shevass.github.io/photorama/journal/"
-  - ABOUT: "https://shevass.github.io/photorama/about/"
+  - GALLERY: "www.shivawatercolor.com/gallery/"  
+  - JOURNAL: "www.shivawatercolor.com/journal/"
+  - ABOUT: "www.shivawatercolor.com/about/"
 
 # All translation keys
 translations:
