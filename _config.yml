@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "www.shivawatercolor.com/gallery/"  
-  - JOURNAL: "www.shivawatercolor.com/journal/"
-  - ABOUT: "www.shivawatercolor.com/about/"
+  - GALLERY: "/gallery/"  
+  - JOURNAL: "/journal/"
+  - ABOUT: "/about/"
 
 # All translation keys
 translations:
