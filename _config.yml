@@ -1,15 +1,15 @@
 # Site settings
 title: SHIVAWATERCOLOR
-email: ""
+email: "shivasayedsalehi@gmail.com"
 description: "Art Page"
 url: "www.shivawatercolor.com"
 baseurl: ""
-facebook_username: ""
-twitter_username: ""
+#facebook_username: ""
+#twitter_username: ""
 instagram_username: "shivawatercolor"
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
 discus_shortname: ""
 share: true
 
