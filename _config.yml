@@ -48,7 +48,7 @@ port:             	 4000
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: #281464
 permalink: pretty
 paginate: 5
 paginate_path: "/journal/page:num/"
